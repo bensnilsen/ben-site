@@ -16,7 +16,7 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed"
-  gem "jekyll-leaflet"
+  # gem "jekyll-leaflet"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jekyll-toc"
