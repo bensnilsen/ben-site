@@ -45,7 +45,8 @@ Besides from these, I plan on including a résumé & academic CV, portfolio & pe
 - [Wwise](https://www.audiokinetic.com/en/wwise/overview/)
     - This is audio middleware for game developers; I also considered listing it under "Music"
 - [Famitracker](https://famitracker.com/) *(Chiptune music sequencer)*
-- [Aseprite](https://www.aseprite.org/) *(Pixel art program)*
+- [Aseprite](https://www.aseprite.org/) *(Pixel art & animation)*
+    - Aseprite costs money to quick install, but if you can't afford this, you may compile from the source yourself for free.
 
 # Music
 
