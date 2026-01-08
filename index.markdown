@@ -11,19 +11,25 @@ Besides from these, I plan on including a résumé & academic CV, portfolio & pe
 # Animation Technology
 
 ### Websites
-- [Physics Based Animation](https://www.physicsbasedanimation.com/)
-    - [Methodology for Assessing Mesh-Based Contact Point Methods](https://www.physicsbasedanimation.com/2018/08/09/methodology-for-assessing-mesh-based-contact-point-methods/)
+- [Introduction to Computer Graphics](https://math.hws.edu/graphicsbook/)
 - [Albert Chern Teaching](https://cseweb.ucsd.edu/~alchern/teaching/)
     - Albert Chern teaches about computer graphics, and in particular physics simulation, at UCSD. Here he also includes his previous teaching at Caltech.
 - [Physically Based Rendering](https://www.pbr-book.org/)
 - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
     - I don't know this web book well, but it was recommended by someone in my university's game development club
+- [Physics Based Animation](https://www.physicsbasedanimation.com/)
+    - [Methodology for Assessing Mesh-Based Contact Point Methods](https://www.physicsbasedanimation.com/2018/08/09/methodology-for-assessing-mesh-based-contact-point-methods/)
 - [Disney Animation Publications](https://disneyanimation.com/publications/)
     - Also, [Disney Animation Studios](https://disneyanimation.com/) in general
 - [cgbookcase](https://www.cgbookcase.com/) has free PBR textures and a few guides on physically-based rendering.
     - See also [ambientCG](https://ambientcg.com/), [Texture Box](https://texturebox.com/), and [Poly Haven](https://polyhaven.com/hdris) *(all diverse asset libraries)*, as well as [3D Textures](https://3dtextures.me/) *(more PBR textures)*
 
 ### Software
+General Graphics
+- [OpenGL](https://www.opengl.org/)
+- [Metal](https://developer.apple.com/metal/)
+- [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+
 3D Animation
 - [Blender](https://www.blender.org/download/)
 - [Houdini](https://www.sidefx.com/)
